@@ -15,9 +15,9 @@ Qu'il s'agisse d'un fichier, de l'entrée standard, ou même plus tard d'une con
 **Skills 🏀🗑**
 
 
-> Imperative programming</br> 
-> Rigor</br> 
-> Algorithms & AI</br>
+> Programmation impérative</br> 
+> Rigueur</br> 
+> Algorithmne et Intelligence artificiel</br>
 
 ------
 Les projets à **42** sont soumis a un **programme automatique** impitoyable, et à des **étudiants** (encore plus cruels 😊), dont voici les commentaires sur ce projet:
